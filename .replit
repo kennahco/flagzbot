@@ -1,0 +1,1 @@
+run="bash node deploy-commands.js && bash npm start"

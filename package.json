@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "start": "bash node ."
+  },
+  "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "csv-parser": "^3.0.0",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.5.1",
+    "express": "^4.17.2"
+  },
+  "name": "flagzbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "node": "^16.13.1",
+    "npm": "^8.3.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

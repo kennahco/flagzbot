@@ -1,0 +1,1 @@
+~/flagzbot/node_modules/node/bin/node ~/flagzbot/node_modules/npm/bin/npm-cli.js $@
