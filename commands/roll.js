@@ -1,3 +1,5 @@
+const randomizer = require('../randomizer.js')
+
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageEmbed } = require('discord.js');
 
